@@ -1,0 +1,19 @@
+{
+  "name": "New Home",
+  "path": "/new-home",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/PersonalInfo.tsx",
+        "name": "Felipe Nogueira",
+        "technologies": "React + Typescript",
+        "photo": "https://deco-sites-assets.s3.sa-east-1.amazonaws.com/nogueiradev/9d9735bd-3e97-4312-91f9-4b9fe49eab50/aH94fLVfelipe-nogueira-workbook.jpg"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
